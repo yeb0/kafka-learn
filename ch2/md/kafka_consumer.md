@@ -44,7 +44,7 @@ hello-group     hello2          1          3               3               0    
 hello-group     hello2          0          6               6               0               -               -
 ```
 
-아래는 kafka cluster를 설치하지 않아서, 실습을 진행하지는 못했으나 네트워크 통신 간단히 할 때에 쓰이기에 가져왔다.
+아래는 kafka를 AWS로 실습하지 않아서, 실습을 진행하지는 못했으나 네트워크 통신 간단히 할 때에 쓰이기에 가져왔다.
 
 
 >kafka-verifiable-producer, consumer.sh Permalink
